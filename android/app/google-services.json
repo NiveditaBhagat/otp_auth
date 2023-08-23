@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11664578234",
+    "project_id": "auth-18dee",
+    "storage_bucket": "auth-18dee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11664578234:android:88e3da013c5a3d3b28d483",
+        "android_client_info": {
+          "package_name": "com.example.flutter_otp_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11664578234-uq9dfbb4ndnc6ghcecvaaciralbbegn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0FDBG-MS1KqT88j2CjPxu-PZebGauQ6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11664578234-uq9dfbb4ndnc6ghcecvaaciralbbegn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
